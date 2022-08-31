@@ -1,0 +1,11 @@
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\bin\Debug\AppInterfaz.exe.config
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\bin\Debug\AppInterfaz.exe
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\bin\Debug\AppInterfaz.pdb
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.csprojAssemblyReference.cache
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.FormPrestamos.resources
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.INICIO.resources
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.Properties.Resources.resources
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.csproj.GenerateResource.cache
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.exe
+C:\Users\HERRERA\Downloads\Programas Pc\AppInterfazSolucion\AppInterfaz\obj\Debug\AppInterfaz.pdb
